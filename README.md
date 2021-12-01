@@ -1,2 +1,2 @@
-# 100days_of_Javascript_Template
-Ready to Rage , ......... 
+# 100days_of_Javascript
+*******Day 1 Number Counter******
